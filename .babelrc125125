@@ -1,0 +1,6 @@
+{
+	"presets": ["@babel/preset-env"],
+	"plugins": [
+		["./example/babel/index.js"]
+	]
+}
